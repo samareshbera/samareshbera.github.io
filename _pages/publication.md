@@ -8,6 +8,7 @@ author_profile: true
 * 
 
 <h3>Journals</h3>
+
 [17.](https://ieeexplore.ieee.org/document/9046815) <b>S. Bera</b>, S. Misra, and N. Saha, "Traffic-Aware Dynamic Controller Assignment in SDN", <i>IEEE Trans. on Communications</i>, 2020.[PDF]()
 
 [16.](https://ieeexplore.ieee.org/document/8930056) S. Misra and <b>S. Bera</b>, "Soft-VAN: Mobility-Aware Task Offloading in Software-Defined Vehicular Network", IEEE Trans. on Vehicular Technology, 2019.[PDF]()
