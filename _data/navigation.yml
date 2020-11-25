@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /home/
-
-  - title: "Education & Experience"
-    url: /education/    
+    url: /home/   
 
   - title: "Research"
     url: /research/    
