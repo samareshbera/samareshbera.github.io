@@ -57,7 +57,9 @@ author_profile: true
 
 [1.](ieeexplore.ieee.org/document/6682213/)S. Misra, A. Mondal, S. Banik, M. Khatua, S. Bera, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", in Proc. of IEEE iThings/CPSCom, 2013.
 
+
 <h4>Book Chapter</h4>
+
 [1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, S. Bera, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", in Book Soft Computing Applications in Sensor Networks edited by S. Misra and S. K. Pal, CRC Press, 2016.
 
 
