@@ -40,7 +40,9 @@ author_profile: true
 
 [1.](ieeexplore.ieee.org/document/6828878/) S. Misra, <b>S. Bera</b>, A. Mondal, R. Tirkey, H. C. Chao, and S. Chattopadhyay, "Optimal Gateway Selection in Sensor-Cloud Framework for Health Monitoring", IET Wireless Sensor Systems, vol. 3, no. 4, pp. 61-68, Dec. 2014. 
 
+
 <h4>Conferences</h4>
+
 [7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and S. Bera, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", in Proc. of the IEEE GLOBECOM, Dec. 2018.
 
 [6.](https://ieeexplore.ieee.org/document/8403550/)S. Bera, S. Misra, and N. Saha, "DynamiTE: Dynamic Traffic Engineering in Software-Defined Cyber Physical Systems", in Proc. of the IEEE ICC Workshop, May 2018.
@@ -60,5 +62,6 @@ author_profile: true
 
 
 <h4>Thesis</h4>
+
 * PhD Thesis: Software-defined networking for internet of things: rule placement and routing
 * MS Thesis: Dynamic pricing policy and energy management in smart grid
