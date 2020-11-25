@@ -21,7 +21,7 @@ Work Experience
 
 Education
 ---------
-* PhD, Department of Computer Science & Engineering, IIT Kharagpur, India (Thesis Submitted - Dec, 2019)
-* MS (by Research), School of Information Technology, IIT Kharagpur, India (2012 -- 2015)
+* PhD, Indian Institute of Technology Kharagpur, India (Thesis Submitted - Dec, 2019)
+* MS (by Research), Indian Institute of Technology Kharagpur, India (2012 -- 2015)
 * BTech (ECE), West Bengal University of Technology, India (2007 -- 2011)
 
