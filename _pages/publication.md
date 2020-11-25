@@ -2,10 +2,7 @@
 title: ""
 permalink: /publication/
 author_profile: true
----
-
-<h3>Books</h3>
-* 
+--- 
 
 <h3>Journals</h3>
 
@@ -44,6 +41,24 @@ author_profile: true
 [1.](ieeexplore.ieee.org/document/6828878/) S. Misra, <b>S. Bera</b>, A. Mondal, R. Tirkey, H. C. Chao, and S. Chattopadhyay, "Optimal Gateway Selection in Sensor-Cloud Framework for Health Monitoring", IET Wireless Sensor Systems, vol. 3, no. 4, pp. 61-68, Dec. 2014. 
 
 <h4>Conferences</h4>
+[7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and S. Bera, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", in Proc. of the IEEE GLOBECOM, Dec. 2018.
+
+[6.](https://ieeexplore.ieee.org/document/8403550/)S. Bera, S. Misra, and N. Saha, "DynamiTE: Dynamic Traffic Engineering in Software-Defined Cyber Physical Systems", in Proc. of the IEEE ICC Workshop, May 2018.
+
+[5.](ieeexplore.ieee.org/document/7841995/)S. Bera, S. Misra, and M.S. Obaidat, "Mobility-Aware Flow-Table Implementation in Software-Defined IoT", in Proc. of the IEEE GLOBECOM, Dec. 2016.
+
+[4.](ieeexplore.ieee.org/document/7417591/)S. Bera, T. Ojha, S. Misra, and M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", in Proc. of the IEEE GLOBECOM, Dec. 2015.
+
+[3.](ieeexplore.ieee.org/document/7037771/)T. Ojha, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications", in Proc. IEEE CloudCom, Dec. 2014.
+
+[2.](ieeexplore.ieee.org/document/7037178/)S. Bera, S. Misra, and M. S. Obaidat, "Energy-Efficient Smart Metering for Green Smart Grid Communication", in Proc. of the IEEE GLOBECOM, Dec. 2014.
+
+[1.](ieeexplore.ieee.org/document/6682213/)S. Misra, A. Mondal, S. Banik, M. Khatua, S. Bera, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", in Proc. of IEEE iThings/CPSCom, 2013.
+
+<h4>Book Chapter</h4>
+[1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, S. Bera, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", in Book Soft Computing Applications in Sensor Networks edited by S. Misra and S. K. Pal, CRC Press, 2016.
 
 
 <h4>Thesis</h4>
+* PhD Thesis: Software-defined networking for internet of things: rule placement and routing
+* MS Thesis: Dynamic pricing policy and energy management in smart grid
