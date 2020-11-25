@@ -41,7 +41,7 @@ author_profile: true
 [1.](ieeexplore.ieee.org/document/6828878/) S. Misra, <b>S. Bera</b>, A. Mondal, R. Tirkey, H. C. Chao, and S. Chattopadhyay, "Optimal Gateway Selection in Sensor-Cloud Framework for Health Monitoring", IET Wireless Sensor Systems, vol. 3, no. 4, pp. 61-68, Dec. 2014. <[PDF]()>
 
 
-<h4>Conferences</h4>
+<h3>Conferences</h3>
 
 [7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and S. Bera, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", in Proc. of the IEEE GLOBECOM, Dec. 2018.<[PDF]()>
 
@@ -58,12 +58,12 @@ author_profile: true
 [1.](ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, S. Bera, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", in Proc. of IEEE iThings/CPSCom, 2013.<[PDF]()>
 
 
-<h4>Book Chapter</h4>
+<h3>Book Chapter</h3>
 
 [1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, S. Bera, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", in Book Soft Computing Applications in Sensor Networks edited by S. Misra and S. K. Pal, CRC Press, 2016.
 
 
-<h4>Thesis</h4>
+<h3>Thesis</h3>
 
 * PhD Thesis: Software-defined networking for internet of things: rule placement and routing
 * MS Thesis: Dynamic pricing policy and energy management in smart grid
