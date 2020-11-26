@@ -1,10 +1,9 @@
 ---
+layout: archive
 title: ""
 permalink: /research/
 author_profile: true
 ---
-
-Following are my areas of research interests:
 
 
 <h3>Efficient network management and orchestration in 5G</h3>
