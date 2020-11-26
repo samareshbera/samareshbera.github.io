@@ -44,24 +44,24 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and S. Bera, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2018.[[PDF](https://samareshbera.github.io/files/Dual.pdf)]
+[7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and <b>S. Bera</b>, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2018.[[PDF](https://samareshbera.github.io/files/Dual.pdf)]
 
-[6.](https://ieeexplore.ieee.org/document/8403550/) S. Bera, S. Misra, and N. Saha, "DynamiTE: Dynamic Traffic Engineering in Software-Defined Cyber Physical Systems", <i>in Proc. of the IEEE ICC Workshop</i>, May 2018.[[PDF](https://samareshbera.github.io/files/DynamiTE.pdf)]
+[6.](https://ieeexplore.ieee.org/document/8403550/) <b>S. Bera</b>, S. Misra, and N. Saha, "DynamiTE: Dynamic Traffic Engineering in Software-Defined Cyber Physical Systems", <i>in Proc. of the IEEE ICC Workshop</i>, May 2018.[[PDF](https://samareshbera.github.io/files/DynamiTE.pdf)]
 
-[5.](ieeexplore.ieee.org/document/7841995/) S. Bera, S. Misra, and M.S. Obaidat, "Mobility-Aware Flow-Table Implementation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2016.[[PDF](https://samareshbera.github.io/files/Mobi-Flow-Conference.pdf)]
+[5.](ieeexplore.ieee.org/document/7841995/) <b>S. Bera</b>, S. Misra, and M.S. Obaidat, "Mobility-Aware Flow-Table Implementation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2016.[[PDF](https://samareshbera.github.io/files/Mobi-Flow-Conference.pdf)]
 
-[4.](ieeexplore.ieee.org/document/7417591/) S. Bera, T. Ojha, S. Misra, and M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2015.
+[4.](ieeexplore.ieee.org/document/7417591/) <b>S. Bera</b>, T. Ojha, S. Misra, and M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2015.
 
-[3.](ieeexplore.ieee.org/document/7037771/) T. Ojha, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications", <i>in Proc. IEEE CloudCom</i>, Dec. 2014.
+[3.](ieeexplore.ieee.org/document/7037771/) T. Ojha, <b>S. Bera</b>, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications", <i>in Proc. IEEE CloudCom</i>, Dec. 2014.
 
-[2.](ieeexplore.ieee.org/document/7037178/) S. Bera, S. Misra, and M. S. Obaidat, "Energy-Efficient Smart Metering for Green Smart Grid Communication", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2014.
+[2.](ieeexplore.ieee.org/document/7037178/) <b>S. Bera</b>, S. Misra, and M. S. Obaidat, "Energy-Efficient Smart Metering for Green Smart Grid Communication", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2014.
 
-[1.](ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, S. Bera, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", <i>in Proc. of IEEE iThings/CPSCom</i>, 2013.
+[1.](ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, <b>S. Bera</b>, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", <i>in Proc. of IEEE iThings/CPSCom</i>, 2013.
 
 
 <h3>Book Chapter</h3>
 
-[1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, S. Bera, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", <i>in Book Soft Computing Applications in Sensor Networks</i> edited by S. Misra and S. K. Pal, CRC Press, 2016.
+[1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, <b>S. Bera</b>, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", <i>in Book Soft Computing Applications in Sensor Networks</i> edited by S. Misra and S. K. Pal, CRC Press, 2016.
 
 
 <h3>Thesis</h3>
