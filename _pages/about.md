@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctoral researcher at the [Centre for Networked Intelligence](https://cni.iisc.ac.in/), IISc Bangalore from December 2020. Before that I was a Visiting Researcher at [British Telecom India Research Centre (BTIRC)](https://btirc.iisc.ac.in/), IISc Bangalore working with [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html). I also worked as a Research Engineer at INRIA Sophia Antipolis, France in a joint collaboration with Nokia Bell Labs, France. I have submitted my PhD thesis at the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India under the supervision of [Prof. Sudip Misra](https://cse.iitkgp.ac.in/~smisra/). I received the M.S. degree from the Indian Institute of Technology Kharagpur, India in 2015. My current research interests include software-defined networks, network function virtualization, and 5G network slicing.
+I am a post-doctoral researcher at the [Centre for Networked Intelligence](https://cni.iisc.ac.in/), IISc Bangalore from December 2020. Before that I was a Visiting Researcher at [British Telecom India Research Centre (BTIRC)](https://btirc.iisc.ac.in/), IISc Bangalore working with [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html). I also worked as a Research Engineer at INRIA Sophia Antipolis, France in a joint collaboration with Nokia Bell Labs, France. I have submitted my PhD thesis at the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India under the supervision of [Prof. Sudip Misra](https://cse.iitkgp.ac.in/~smisra/). I received the M.S. degree from the Indian Institute of Technology Kharagpur, India in 2015. My current research interests include software-defined networks, network function virtualization, and 5G network slicing.
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf)
 
 Work Experience
 ----------
-* Visiting Researcher, IISc Bangalore, India (Sept. 2020 -- Present)
+* Post-doctoral researcher, IISc Bangalore, India (Dec. 2020 -- present)
+* Visiting Researcher, IISc Bangalore, India (Sept. 2020 -- Nov. 2020)
 * Research Engineer, INRIA Sophia Antipolis & Nokia Bell Labs, France (Jan. 2020 -- Apr. 2020)
 * Senior Research Fellow, SRIC, IIT Kharagpur, India (Feb. 2016 - Oct. 2018)
 * Senior Project Officer, SRIC, IIT Kharagpur, India (Aug. 2014 - Jan. 2016)
