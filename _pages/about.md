@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the [Centre for Networked Intelligence](https://cni.iisc.ac.in/), IISc Bangalore from December 2020. Before that I was a Visiting Researcher at [British Telecom India Research Centre (BTIRC)](https://btirc.iisc.ac.in/), IISc Bangalore working with [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html). I also worked as a Research Engineer at INRIA Sophia Antipolis, France in a joint collaboration with Nokia Bell Labs, France. I have submitted my PhD thesis at the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India under the supervision of [Prof. Sudip Misra](https://cse.iitkgp.ac.in/~smisra/). I received the M.S. degree from the Indian Institute of Technology Kharagpur, India in 2015. My current research interests include software-defined networks, network function virtualization, and 5G network slicing.
+I am a post-doctoral researcher at the [Centre for Networked Intelligence](https://cni.iisc.ac.in/), IISc Bangalore from December 2020. Before that I was a Visiting Researcher at [British Telecom India Research Centre (BTIRC)](https://btirc.iisc.ac.in/), IISc Bangalore working with [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html). I also worked as a Research Engineer at INRIA Sophia Antipolis, France in a joint collaboration with Nokia Bell Labs, France. I received the PhD degree from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India under the supervision of [Prof. Sudip Misra](https://cse.iitkgp.ac.in/~smisra/). I received the M.S. degree from the Indian Institute of Technology Kharagpur, India in 2015. My current research interests include software-defined networks, network function virtualization, and 5G network slicing.
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf)
 
@@ -24,7 +24,7 @@ Work Experience
 
 Education
 ---------
-* PhD, Indian Institute of Technology Kharagpur, India (Thesis Submitted - Dec, 2019)
+* PhD, Indian Institute of Technology Kharagpur, India (2015 -- 2020)
 * MS (by Research), Indian Institute of Technology Kharagpur, India (2012 -- 2015)
 * BTech (ECE), West Bengal University of Technology, India (2007 -- 2011)
 
