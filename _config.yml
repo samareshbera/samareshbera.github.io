@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samaresh Bera"
 title_separator          : "-"
 name                     : &name "Samaresh Bera"
-description              : &description "Post-doctoral researcher, IISc Bangalore, India"
+description              : &description "C.V. Raman Post-Doctoral Fellow, IISc Bangalore, India"
 url                      : https://samareshbera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samareshbera.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samaresh Bera"
   avatar           : "Samaresh3.jpg"
-  bio              : "Post-doctoral researcher, IISc Bangalore"
+  bio              : "C.V. Raman Post-Doctoral Fellow, IISc Bangalore"
   location         : "Bangalore, India"
   employer         :
   pubmed           : 
