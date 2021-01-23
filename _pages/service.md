@@ -13,7 +13,8 @@ author_profile: true
 
 <h3>TPC Member</h3>
 
-* ICACIE - 2020, MauritiusIEEE TechSym - 2016, Kharagpur, India
+* ICNS - 2021, Valencia, Spain
+* ICACIE - 2020, Mauritius
 * IEEE TechSym - 2016, Kharagpur, India
 * ICACIE - 2016, Bhubaneswar, India
 * IEEE ScalCom - 2014, Bali, Indonesia
