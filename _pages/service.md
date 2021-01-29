@@ -38,7 +38,7 @@ author_profile: true
 
 <h3>Membership</h3>
 
-* Graduate Student Member, IEEE
+* Member, IEEE
 
 
 <h3>Reviewer</h3>
