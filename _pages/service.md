@@ -22,9 +22,10 @@ author_profile: true
 
 <h3>Conference Organizing Committee Member</h3>
 
-* Finance Chair - IEEE TechSym, 2016, IIT Kharagpur, India
-* Technology Outreach Awards - IEEE TechSym, 2016, IIT Kharagpur, India
-* Local Arrangements - IEEE TechSym, 2014, IIT Kharagpur, India
+* Publicity Chair - IEEE WPSN 2021, Virtual Event
+* Finance Chair - IEEE TechSym 2016, IIT Kharagpur, India
+* Technology Outreach Awards - IEEE TechSym 2016, IIT Kharagpur, India
+* Local Arrangements - IEEE TechSym 2014, IIT Kharagpur, India
 
 
 <h3>IEEE Student Branch Committee Member</h3>
