@@ -10,7 +10,7 @@ redirect_from:
 
 I am a C.V. Raman Post-Doctoral Fellow at the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/), IISc Bangalore, India, working with [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html) from January 2021. Before that, I was a Post-Doctoral Researcher at the [Centre for Networked Intelligence](https://cni.iisc.ac.in/) and Visiting Researcher at [British Telecom India Research Centre (BTIRC)](https://btirc.iisc.ac.in/), IISc Bangalore. I also worked as a Research Engineer at INRIA Sophia Antipolis, France in a joint collaboration with Nokia Bell Labs, France. I did my PhD from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India under the supervision of [Prof. Sudip Misra](https://cse.iitkgp.ac.in/~smisra/). I received the M.S. degree from the Indian Institute of Technology Kharagpur, India in 2015. My current research interests include software-defined networks, network function virtualization, and 5G network slicing.
 
-My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf)
+My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
 Work Experience
 ----------
