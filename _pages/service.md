@@ -40,11 +40,15 @@ author_profile: true
 <h3>Membership</h3>
 
 * Member, IEEE
+* Member, ACM
+* Member, IEEE Communications Society
+* Member, IEEE Computer Society
 
 
 <h3>Reviewer</h3>
 
 * IEEE/ACM Transactions on Networking
+* ACM Computing Surveys
 * IEEE Comm. Surveys and Tutorials
 * IEEE J. on Selected Areas in Communications
 * IEEE Trans. on Network & Service Management
