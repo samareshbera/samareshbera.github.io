@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h3>Efficient network management and orchestration in 5G</h3>
-The service-oriented architecture has been beneficial in 5G to virtualize the physical network into multiple logical networks or slices, in contrast to the traditional ‘one-size-fitsall’ architecture. Each network slice is an end-to-end virtualized network instance and is dedicated for application-specific service provisioning. Network slicing can be enabled
+The service-oriented architecture has been beneficial in 5G to virtualize the physical network into multiple logical networks or slices, in contrast to the traditional ‘one-size-fits-all’ architecture. Each network slice is an end-to-end virtualized network instance and is dedicated for application-specific service provisioning. Network slicing can be enabled
 by two complementary technologies – network function virtualization (NFV) and softwaredefined networking (SDN). NFV offers virtualization and flexible management of network functions (NFs) throughout the network, and SDN enables simplified network management by separating the control-plane and user data-plane functionalities. A few academic initiatives have explored efficient schemes for network slice management, while utilizing the benefits of SDN and NFV. However, these approaches face network optimization challenges due to their large decision spaces. They also face scalability issues, since they rely on traditional optimization techniques. Consequently, I aim to address the above issues and challenges by proposing data-driven adaptive algorithms for efficient network management and orchestration in 5G.
 
 
