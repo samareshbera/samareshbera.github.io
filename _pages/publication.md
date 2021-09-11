@@ -7,15 +7,17 @@ author_profile: true
 
 <h3>Journals</h3>
 
-[17.](https://ieeexplore.ieee.org/document/9046815) <b>S. Bera</b>, S. Misra, and N. Saha, "Traffic-Aware Dynamic Controller Assignment in SDN", <i>IEEE Trans. on Communications</i>, 2020.[[PDF](https://samareshbera.github.io/files/DCA.pdf)]
+[18.]() N. Saha, S. Misra, and <b>S. Bera</b>, "Q-Flag: QoS-Aware Flow-Rule Aggregation in Software-Defined IoT Networks", <i>IEEE Internet of Things Journal</i> (Accepted), 2021.[[PDF]()]
 
-[16.](https://ieeexplore.ieee.org/document/8930056) S. Misra and <b>S. Bera</b>, "Soft-VAN: Mobility-Aware Task Offloading in Software-Defined Vehicular Network", <i>IEEE Trans. on Vehicular Technology</i>, 2019.[[PDF](https://samareshbera.github.io/files/Soft-VAN.pdf)]
+[17.](https://ieeexplore.ieee.org/document/9046815) <b>S. Bera</b>, S. Misra, and N. Saha, "Traffic-Aware Dynamic Controller Assignment in SDN", <i>IEEE Trans. on Communications</i>, vol. 68, no. 7, 2020.[[PDF](https://samareshbera.github.io/files/DCA.pdf)]
+
+[16.](https://ieeexplore.ieee.org/document/8930056) S. Misra and <b>S. Bera</b>, "Soft-VAN: Mobility-Aware Task Offloading in Software-Defined Vehicular Network", <i>IEEE Trans. on Vehicular Technology</i>, vol. 69, no. 2, 2020.[[PDF](https://samareshbera.github.io/files/Soft-VAN.pdf)]
 
 [15.](https://ieeexplore.ieee.org/document/8624498/) <b>S. Bera</b>, S. Misra, and A. Jamalipour, "FlowStat: Adaptive Flow-Rule Placement for Per-Flow Statistics in SDN", <i>IEEE J. on Selected Areas in Communications</i>, vol. 37, no. 3, pp. 530-539, 2019.[[PDF](https://samareshbera.github.io/files/FlowStat.pdf)]
 
 [14.](https://ieeexplore.ieee.org/document/8454737/) <b>S. Bera</b>, S. Misra, and M. S. Obaidat, "Mobi-Flow: Mobility-Aware Adaptive Flow-Rule Placement in Software-Defined Access Network", <i>IEEE Trans. on Mobile Computing</i>, vol. 18, no. 8, pp. 1831-1842, 2019.[[PDF](https://samareshbera.github.io/files/MobiFlow.pdf)]
 
-[13.](https://ieeexplore.ieee.org/document/8385144/) N. Saha, <b>S. Bera</b>, S. Misra, "Sway: Traffic-Aware QoS Routing in Software-Defined IoT", <i>IEEE Trans. on Emerging Topics in Computing</i>, 2018.[[PDF](https://samareshbera.github.io/files/Sway.pdf)]
+[13.](https://ieeexplore.ieee.org/document/8385144/) N. Saha, <b>S. Bera</b>, S. Misra, "Sway: Traffic-Aware QoS Routing in Software-Defined IoT", <i>IEEE Trans. on Emerging Topics in Computing</i>, vol. 9, no. 1, 2021.[[PDF](https://samareshbera.github.io/files/Sway.pdf)]
 
 [12.](ieeexplore.ieee.org/document/7740067/) <b>S. Bera</b>, S. Misra, S. K. Roy, and M. S. Obaidat, "Soft-WSN: Software-Defined WSN Management System for IoT Applications", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2074-2081, Sept. 2018 (Best paper award 2019).[[PDF](https://samareshbera.github.io/files/SoftWSN.pdf)]
 
@@ -43,6 +45,8 @@ author_profile: true
 
 
 <h3>Conferences</h3>
+
+[8.]() <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", <i>Proc. of the IEEE/ACM/IFIP CNSM</i> (to appear), Oct. 2021.[[PDF]()]
 
 [7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and <b>S. Bera</b>, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2018.[[PDF](https://samareshbera.github.io/files/Dual.pdf)]
 
