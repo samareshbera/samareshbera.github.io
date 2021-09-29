@@ -48,11 +48,11 @@ author_profile: true
 * Member, IEEE Computer Society
 
 
-<h3>Reviewer</h3>
+<h3>Reviewer (Selected Journals)</h3>
 
-* IEEE/ACM Transactions on Networking
+* IEEE/ACM Trans. on Networking
 * ACM Computing Surveys
-* IEEE Comm. Surveys and Tutorials
+* IEEE Communication Surveys and Tutorials
 * IEEE J. on Selected Areas in Communications
 * IEEE Trans. on Network & Service Management
 * IEEE Trans. on Smart Grid
@@ -64,6 +64,3 @@ author_profile: true
 * IEEE Trans. on Intelligent Transportation Systems
 * IEEE Comm. Magazine
 * IEEE Internet of Things Journal
-* Elsevier Journal of Network and Computer Applications
-
-and many more
