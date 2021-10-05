@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-[18.](https://ieeexplore.ieee.org/document/9540907) N. Saha, S. Misra, and <b>S. Bera</b>, "Q-Flag: QoS-Aware Flow-Rule Aggregation in Software-Defined IoT Networks", <i>IEEE Internet of Things Journal</i> (Accepted), 2021.[[PDF](https://samareshbera.github.io/files/QFlag.pdf)]
+[18.](https://ieeexplore.ieee.org/document/9540907) N. Saha, S. Misra, and <b>S. Bera</b>, "Q-Flag: QoS-Aware Flow-Rule Aggregation in Software-Defined IoT Networks", <i>IEEE Internet of Things Journal</i> (Accepted), 2021.[[<img src="images/pdf.png" alt="pdf" class="inline"/>](https://samareshbera.github.io/files/QFlag.pdf)]
 
 [17.](https://ieeexplore.ieee.org/document/9046815) <b>S. Bera</b>, S. Misra, and N. Saha, "Traffic-Aware Dynamic Controller Assignment in SDN", <i>IEEE Trans. on Communications</i>, vol. 68, no. 7, 2020.[[PDF](https://samareshbera.github.io/files/DCA.pdf)]
 
