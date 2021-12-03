@@ -10,6 +10,7 @@ author_profile: true
 
 <h3>Invited Talks</h3>
 
+* "Network slicing in 5G edge networks" at <i>CNI, IISc Bangalore, India, Nov. 2021</i>.
 * "Adaptive rule placement in software-defined networks" in <i>ICACIE - 2020, Mauritius</i>.
 * "Software-defined networking: rule placement and routing", in <i>AICTE-Sponsored Online Short Term Training Program 2020, Bharati Vidyapeeth, India</i>.
 
