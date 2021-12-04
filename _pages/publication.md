@@ -21,7 +21,7 @@ author_profile: true
 
 [12.](https://ieeexplore.ieee.org/document/7740067/) <b>S. Bera</b>, S. Misra, S. K. Roy, and M. S. Obaidat, "Soft-WSN: Software-Defined WSN Management System for IoT Applications", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2074-2081, Sept. 2018 (Best paper award 2019). [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SoftWSN.pdf)
 
-[11.](https://ieeexplore.ieee.org/document/7740067/) S. Misra, <b>S. Bera</b>, Achuthananda M.P., S. K. Pal, and M. S. Obaidat, "Situation-Aware Protocol Switching in Software-Defined Wireless Sensor Network Systems", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2353-2360, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SAPS.pdf)
+[11.](https://ieeexplore.ieee.org/document/8207582/) S. Misra, <b>S. Bera</b>, Achuthananda M.P., S. K. Pal, and M. S. Obaidat, "Situation-Aware Protocol Switching in Software-Defined Wireless Sensor Network Systems", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2353-2360, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SAPS.pdf)
 
 [10.](https://ieeexplore.ieee.org/document/7817887/) <b>S. Bera</b>, S. Misra, and D. Chatterjee, "C2C: Community-Based Cooperative Energy Consumption in Smart Grid", <i>IEEE Transactions on Smart Grid</i>, vol. 9, no. 5, pp. 4262-4269, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/C2C.pdf)
 
@@ -46,7 +46,7 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[8.]() <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", To Appear in <i>IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM)</i>, Oct. 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/RESET.pdf)
+[8.](https://ieeexplore.ieee.org/document/9615516/) <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", To Appear in <i>IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM)</i>, Oct. 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/RESET.pdf)
 
 [7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and <b>S. Bera</b>, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Dual.pdf)
 
