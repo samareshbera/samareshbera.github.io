@@ -17,6 +17,7 @@ author_profile: true
 
 <h3>TPC Member</h3>
 
+* ICNS - 2022, Venice, Italy
 * ICNS - 2021, Valencia, Spain
 * ICACIE - 2020, Mauritius
 * IEEE TechSym - 2016, Kharagpur, India
