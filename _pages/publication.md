@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-[19.]() <b>S. Bera</b>, S. Misra, N. Saha, and H. Sharif, "Q-Soft: QoS-aware Traffic Forwarding in Software-Defined Cyber-Physical Systems", <i>IEEE Internet of Things Journal</i> (Accepted), 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Q-Soft.pdf)
+[19.](https://ieeexplore.ieee.org/document/9663215) <b>S. Bera</b>, S. Misra, N. Saha, and H. Sharif, "Q-Soft: QoS-aware Traffic Forwarding in Software-Defined Cyber-Physical Systems", <i>IEEE Internet of Things Journal</i> (Accepted), 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Q-Soft.pdf)
 
 [18.](https://ieeexplore.ieee.org/document/9540907) N. Saha, S. Misra, and <b>S. Bera</b>, "Q-Flag: QoS-Aware Flow-Rule Aggregation in Software-Defined IoT Networks", <i>IEEE Internet of Things Journal</i> (Accepted), 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/QFlag.pdf)
 
