@@ -6,6 +6,7 @@ author_profile: true
 ---
 <h3>Professional Training</h3>
 
+* OSM Hackfest #12 on "VNF Onboarding using Kamailio", Jan. 24-28, 2022, Virtual.
 * OSM Mid-Release #11 Hackfest on "On-boarding 5G core network functions using OAI and OSM", Sept. 13-17, 2021, Virtual.
 
 <h3>Invited Talks</h3>
