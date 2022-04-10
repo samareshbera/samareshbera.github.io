@@ -48,7 +48,7 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[8.](https://ieeexplore.ieee.org/document/9615516/) <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", To Appear in <i>IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM)</i>, Oct. 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/RESET.pdf)
+[8.](https://ieeexplore.ieee.org/document/9615516/) <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", <i>in Proc. CNSM</i>, Oct. 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/RESET.pdf)
 
 [7.](https://ieeexplore.ieee.org/document/8647471/) N. Saha, S. Misra, and <b>S. Bera</b>, "QoS-Aware Adaptive Flow-rule Aggregation in Software-Defined IoT", <i>in Proc. of the IEEE GLOBECOM</i>, Dec. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Dual.pdf)
 
