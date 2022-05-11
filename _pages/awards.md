@@ -4,7 +4,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-* Selected as top 1% reviewer in Publons, 2019
+* AWSAR award 2021, DST, Govt. of India.
+* Selected as top 1% reviewer in Publons, 2019.
 * Selected as IEEE Richard E. Merwin Student Scholar, 2017.
 * Selected as Young Researcher for attending 5th Heidelberg Laureate Forum, Germany, 2017.
 * Received Merit Cum Means scholarship from Govt. of West Bengal, 2007-2008 and 2008-2009.
