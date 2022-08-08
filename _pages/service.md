@@ -6,6 +6,7 @@ author_profile: true
 ---
 <h3>Professional Training</h3>
 
+* OSM Hackfest #13 on "5G Core Onboarding using Magma", Jun. 13-17, 2022, Virtual.
 * OSM Hackfest #12 on "VNF Onboarding using Kamailio", Jan. 24-28, 2022, Virtual.
 * OSM Mid-Release #11 Hackfest on "On-boarding 5G core network functions using OAI and OSM", Sept. 13-17, 2021, Virtual.
 
