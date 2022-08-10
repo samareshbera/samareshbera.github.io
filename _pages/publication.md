@@ -62,7 +62,7 @@ author_profile: true
 
 [2.](https://ieeexplore.ieee.org/document/7037178/) <b>S. Bera</b>, S. Misra, and M. S. Obaidat, "Energy-Efficient Smart Metering for Green Smart Grid Communication", <i>in Proc. IEEE GLOBECOM</i>, Dec. 2014.
 
-[1.](https://ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, <b>S. Bera</b>, and M. S. Obaidat, "Residential Energy Management in Smart Gird: A Markov Decision Process Based Approach", <i>in Proc. IEEE iThings/CPSCom</i>, 2013.
+[1.](https://ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, <b>S. Bera</b>, and M. S. Obaidat, "Residential Energy Management in Smart Grid: A Markov Decision Process Based Approach", <i>in Proc. IEEE iThings/CPSCom</i>, 2013.
 
 
 <h3>Book Chapter</h3>
