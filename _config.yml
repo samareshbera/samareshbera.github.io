@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samaresh Bera"
 title_separator          : "-"
 name                     : &name "Samaresh Bera"
-description              : &description "C.V. Raman Post-Doctoral Fellow, IISc Bangalore, India"
+description              : &description "Assistant Professor, IIT Jammu, India"
 url                      : https://samareshbera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samareshbera.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samaresh Bera"
   avatar           : "Samaresh3.jpg"
-  bio              : "C.V. Raman Post-Doctoral Fellow, IISc Bangalore"
-  location         : "Bangalore, India"
+  bio              : "Assistant Professor, IIT Jammu"
+  location         : "Jammu, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=avYKpzAAAAAJ&hl=en&oi=ao"
-  email            : "samareshbera@iisc.ac.in; samareshbera91@gmail.com"
+  email            : "samaresh.bera@iitjammu.ac.in; samareshbera91@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Samaresh_Bera"
   uri              :
   bitbucket        :
