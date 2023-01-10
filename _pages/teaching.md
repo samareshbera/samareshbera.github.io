@@ -3,7 +3,11 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-I served as teaching assistant in the following courses:
+
+<h3>Courses as Instructor</h3>
+ * Information Security - Spring 2023 at IIT Jammu 
+
+<h3>Courses as Teaching Assistant</h3>
 
 * Programming and Data Structure Lab - Spring 2018 at IIT Kharagpur 
 * Programming and Data Structure Theory - Autumn 2017 at IIT Kharagpur
