@@ -6,7 +6,7 @@ author_profile: true
 
 <h3>Courses as Instructor</h3>
 
-* Information Security - Spring 2023 at IIT Jammu 
+* Information Security - Spring 2022 at IIT Jammu 
 
 <h3>Courses as Teaching Assistant</h3>
 
