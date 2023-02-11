@@ -23,7 +23,7 @@ author_profile: true
 
 [14.](https://ieeexplore.ieee.org/document/8454737/) <b>S. Bera</b>, S. Misra, and M. S. Obaidat, "Mobi-Flow: Mobility-Aware Adaptive Flow-Rule Placement in Software-Defined Access Network", <i>IEEE Trans. on Mobile Computing</i>, vol. 18, no. 8, pp. 1831-1842, 2019. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/MobiFlow.pdf)
 
-[13.](https://ieeexplore.ieee.org/document/8385144/) N. Saha, <b>S. Bera</b>, S. Misra, "Sway: Traffic-Aware QoS Routing in Software-Defined IoT", <i>IEEE Trans. on Emerging Topics in Computing</i>, vol. 9, no. 1, 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Sway.pdf)
+[13.](https://ieeexplore.ieee.org/document/8385144/) N. Saha, <b>S. Bera</b>, S. Misra, "Sway: Traffic-Aware QoS Routing in Software-Defined IoT", <i>IEEE Trans. on Emerging Topics in Computing</i>, vol. 9, no. 1, pp. 390-401, 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Sway.pdf)
 
 [12.](https://ieeexplore.ieee.org/document/7740067/) <b>S. Bera</b>, S. Misra, S. K. Roy, and M. S. Obaidat, "Soft-WSN: Software-Defined WSN Management System for IoT Applications", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2074-2081, Sept. 2018 (Best paper award 2019). [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SoftWSN.pdf)
 
@@ -37,7 +37,7 @@ author_profile: true
 
 [7.](https://www.sciencedirect.com/science/article/pii/S1389128616303206) S. Misra, <b>S. Bera</b>, T. Ojha, H. Mouftah, and A. Anpalagan, "ENTRUST: Energy Trading Under Uncertainty in Smart Grid Systems", <i>Computer Networks (Elsevier)</i>, vol. 110, pp. 232-242, Dec. 2016. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ENTRUST.pdf)
 
-[6.](https://www.sciencedirect.com/science/article/pii/S1084804515001083) S. Misra, <b>S. Bera</b>, T. Ojha, L. Zhou, "ENTICE: Agent-Based Energy Trading with Incomplete Information in the Smart Grid", <i>Journal of Network and Computer Applications (Elsevier)</i>, vol. 55, pp. 202 - 212, Sept. 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ENTICE.pdf)
+[6.](https://www.sciencedirect.com/science/article/pii/S1084804515001083) S. Misra, <b>S. Bera</b>, T. Ojha, L. Zhou, "ENTICE: Agent-Based Energy Trading with Incomplete Information in the Smart Grid", <i>Journal of Network and Computer Applications (Elsevier)</i>, vol. 55, pp. 202-212, Sept. 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ENTICE.pdf)
 
 [5.](https://ieeexplore.ieee.org/document/6809180/) <b>S. Bera</b>, S. Misra, and Joel. J. P. C. Rodrigues, "Cloud Computing Applications for Smart Grid: A Survey", <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 26, no. 5, pp. 1477-1494, May 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SGSurvey.pdf)
 
