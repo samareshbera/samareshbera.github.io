@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Department of Computer Science and Engineeri
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
-<b>I am looking for PhD candidates interested in pursuing research on systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for PhD position".</b>
+<b>I am looking for candidates interested in pursuing PhD in the area of systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for PhD position".</b>
 
 Work Experience
 ----------
