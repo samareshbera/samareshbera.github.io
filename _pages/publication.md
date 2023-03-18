@@ -43,7 +43,7 @@ author_profile: true
 
 [4.](https://ieeexplore.ieee.org/document/7029140/) <b>S. Bera</b>, P. Gupta, and S. Misra, "D2S: Dynamic Demand Scheduling in Smart Grid Using Optimal Portfolio Selection Strategy", <i>IEEE Trans. on Smart Grid</i>, vol. 6, No. 3, pp. 1434-1442, Apr. 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/D2S.pdf)
 
-[3.](https://ieeexplore.ieee.org/document/6782392/) S. Misra, <b>S. Bera</b>, and T. Ojha, "D2P: Distributed Dynamic Pricing Policy in Smart Grid for PHEVs Management", <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 26, no. 3, pp. 702-712, Feb. 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/D2P.pdf)
+[3.](https://ieeexplore.ieee.org/document/6782392/) S. Misra, <b>S. Bera</b>, and T. Ojha, "D2P: Distributed Dynamic Pricing Policy in Smart Grid for PHEVs Management", <i>IEEE Trans. on Parallel and Distributed Systems</i>, vol. 26, no. 3, pp. 702-712, Feb. 2015. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/D2P.pdf)
 
 [2.](https://ieeexplore.ieee.org/document/6994376/) S. Misra, <b>S. Bera</b>, and M. S. Obaidat, "Economics of Customer's Decisions in Smart Grid", <i>IET Networks</i>, vol. 4, no. 1, pp. 37-43, Jan. 2015.
 
