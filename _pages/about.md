@@ -14,6 +14,8 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 <b>I am looking for candidates interested in pursuing PhD in the area of systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for PhD position".</b>
 
+<b>If you are looking for internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for internship position".</b>
+
 Work Experience
 ----------
 * Assistant Professor, Dept. of CSE, IIT Jammu (Dec. 2022 -- Present)
