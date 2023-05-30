@@ -17,7 +17,7 @@ Recent Updates
 ----------
 I am looking for candidates interested in pursuing PhD in the area of systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for PhD position".
 
-If you are looking for internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for internship position".
+~~If you are looking for internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for internship position".~~
 
 Work Experience
 ----------
