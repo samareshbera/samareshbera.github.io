@@ -12,6 +12,9 @@ I am an Assistant Professor in the [Department of Computer Science and Engineeri
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
+
+Recent Updates
+----------
 <b>I am looking for candidates interested in pursuing PhD in the area of systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for PhD position".</b>
 
 <b>If you are looking for internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with subject "CV for internship position".</b>
@@ -19,7 +22,9 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 Work Experience
 ----------
 * Assistant Professor, Dept. of CSE, IIT Jammu (Dec. 2022 -- Present)
-* Post-doctoral researcher, IISc Bangalore, India (Dec. 2020 -- Dec. 2022)
+* C. V. Raman Post-Doctoral Fellow, IISc Bangalore, India (Jan. 2021 -- Dec. 2022)
+* Post-Doctoral Researcher, IISc Bangalore, India (Dec. 2020)
+* Research Engineer, INRIA Sophia Antipolis and Nokia Bell Labs, France
 
 Education
 ---------
