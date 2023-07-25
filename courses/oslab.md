@@ -30,23 +30,24 @@ Note: This page is created based on https://www.ccs.neu.edu/home/skotthe/classes
 
    d) Configure `gdb` macros to use `gdb` with PintOS. The macros are stored in `$PINTOS_HOME/pintos/src/utils/pintos-gdb`
 
-      i) Go to `$PINTOS_HOME/pintos/src/utils/`
+      * Go to `$PINTOS_HOME/pintos/src/utils/`
 
-      ii) Open `pintos-gdb` using `gedit pintos-gdb`
+      * Open `pintos-gdb` using `gedit pintos-gdb`
 
-      iii) Change `GDBMACROS` as follows:
-            `GDBMACROS=$PINTOS_HOME/pintos/src/misc/gdb-macros`
+      * Change `GDBMACROS` as follows: `GDBMACROS=$PINTOS_HOME/pintos/src/misc/gdb-macros`
 
    e) Go to `$PINTOS_HOME/pintos/src/utils` and build PintOS using `make`
 
    f) We will use `qemu` emulator in this course. To do so, change the following:
 
-         i) Go to `$PINTOS_HOME/pintos/src/threads`
-         ii) Open `Make.vars` using `gedit Make.vars`
-         iii) Change `SIMULATOR = --bochs` to `SIMULATOR = --qemu`
+      * Go to `$PINTOS_HOME/pintos/src/threads`
+   
+      * Open `Make.vars` using `gedit Make.vars`
+   
+      * Change `SIMULATOR = --bochs` to `SIMULATOR = --qemu`
       
    
-2. **Running PintOS Test-Cases**
+3. **Running PintOS Test-Cases**
 
 
 
