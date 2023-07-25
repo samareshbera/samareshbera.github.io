@@ -8,8 +8,11 @@ author_profile: true
 
 * Introduction to Computer Systems - Autumn 2023 at IIT Jammu
 * Operating Systems - Autumn 2023 at IIT Jammu (with Prof. Manoj S Gaur)
-    a) For Lab environment setup: Visit https://github.com/samareshbera/oslab/
-    b) For Lab Assignments: *Will be updated soon* 
+  
+    a) For Lab environment setup: Visit [here](https://github.com/samareshbera/oslab/)
+  
+    b) For Lab Assignments: *Will be updated soon*
+  
 * Information Security - Spring 2022 at IIT Jammu (with Prof. Manoj S Gaur) - Lecture [Slides](https://classroom.google.com/u/0/c/NTA5NDc5ODM0ODQ5) and Lab [Assignments](https://classroom.google.com/u/0/c/NTgyMjEzNzM1MjIx)
 
 <h3>Courses as Teaching Assistant</h3>
