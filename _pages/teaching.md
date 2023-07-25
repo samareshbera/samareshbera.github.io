@@ -4,9 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h3>Courses as Instructor</h3>
+<h3>Courses as Coordinator/Instructor</h3>
 
-* Information Security - Spring 2022 at IIT Jammu (Lecture [Slides](https://classroom.google.com/u/0/c/NTA5NDc5ODM0ODQ5) and Lab [Assignments](https://classroom.google.com/u/0/c/NTgyMjEzNzM1MjIx))
+* Introduction to Computer Systems - Autumn 2023 at IIT Jammu
+* Operating Systems - Autumn 2023 at IIT Jammu (with Prof. Manoj S Gaur)
+* Information Security - Spring 2022 at IIT Jammu (with Prof. Manoj S Gaur) - Lecture [Slides](https://classroom.google.com/u/0/c/NTA5NDc5ODM0ODQ5) and Lab [Assignments](https://classroom.google.com/u/0/c/NTgyMjEzNzM1MjIx)
 
 <h3>Courses as Teaching Assistant</h3>
 
