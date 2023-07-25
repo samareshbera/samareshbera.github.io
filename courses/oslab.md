@@ -9,3 +9,10 @@ Note: This page is created based on https://www.ccs.neu.edu/home/skotthe/classes
 **PintOS installation and Setup**
 
 1. **Download and Install**
+   
+   a) Download the PintOS source files using:
+   
+   `wget http://www.ccs.neu.edu/home/skotthe/classes/cs5600/fall/2016/labs/pintos-setup/pintos-src.tgz`
+
+   b) 
+3. 
