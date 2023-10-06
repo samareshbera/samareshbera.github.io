@@ -26,3 +26,8 @@ Last Degree: MTech
 <img src="https://samareshbera.github.io/images/abc.jpg"  alt="img_shivank" width = 100px height = 110px >
 
 [Shivank Malik]()
+
+
+<h2><b>Alumni Students</b></h2>
+
+<img src="https://samareshbera.github.io/images/abc.jpg"  alt="img_ritvik" width = 100px height = 110px > <img src="https://samareshbera.github.io/images/abc.jpg"  alt="img_bhargav" width = 100px height = 110px >
