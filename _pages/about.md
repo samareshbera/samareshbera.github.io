@@ -15,7 +15,7 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
-* Our proposal to set up a 5G use case lab at IIT Jammu under the scheme "100 5G Use Case Labs" funded by the Department of Telecommunications (DoT), Govt. of India has been selected.
+* Our proposal to set up a 5G use case lab at IIT Jammu under the scheme "100 5G Use Case Labs" by the Department of Telecommunications (DoT), Govt. of India has been selected for funding.
   
 * Project 2: "Reliability and Latency-Aware Network Slicing and Resource Allocation for uRLLC in 5G Networks" is accepted for funding by SERB, Govt. of India.
   
@@ -24,7 +24,7 @@ Recent News
 
 Openings
 ----------
-I have one project position vacant funded by SERB, Govt. of India. The scholarship will be as per the norms. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for Project position".
+I have one project position vacant funded by SERB, Govt. of India. The scholarship will be as per the norms. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for Project position". The candidate has the opportunity to enroll in the PhD degree program as per the rules and regulations at IIT Jammu.
 
 I am looking for candidates interested in pursuing PhD in systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for PhD position".
 
@@ -33,8 +33,8 @@ If you are looking for an internship in the area of next-generation networking (
 Work Experience
 ----------
 * Assistant Professor, Dept. of CSE, IIT Jammu (Dec. 2022 -- Present)
-* C. V. Raman Post-Doctoral Fellow, IISc Bangalore, India (Jan. 2021 -- Dec. 2022)
-* Post-Doctoral Researcher, IISc Bangalore, India (Dec. 2020)
+* C. V. Raman Post-Doctoral Fellow, Dept. of ECE, IISc Bangalore, India (Jan. 2021 -- Dec. 2022)
+* Post-Doctoral Researcher, CNI, IISc Bangalore, India (Dec. 2020)
 * Research Engineer, INRIA Sophia Antipolis and Nokia Bell Labs, France
 
 Education
