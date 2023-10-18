@@ -15,7 +15,7 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
-* "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks" got accepted for presentation in **IEEE ANTS 2023**.
+* "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks" got accepted for presentation in **<i>IEEE ANTS 2023</i>**.
 
 * I have been elevated to **<i>Senior Member, IEEE</i>**.
 
