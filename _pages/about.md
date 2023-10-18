@@ -15,6 +15,8 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
+* "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks" got accepted for presentation in **IEEE ANTS 2023**.
+
 * I have been elevated to <i>Senior Member, IEEE</i>.
 
 * Our proposal to set up a 5G use case lab at IIT Jammu under the scheme "100 5G Use Case Labs" by the Department of Telecommunications (DoT), Govt. of India has been selected for funding.
