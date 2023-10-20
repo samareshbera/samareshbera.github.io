@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /members/
-author_profile: true
+author_profile: false
 ---
 
 <h2><b>Coordinator</b></h2>
