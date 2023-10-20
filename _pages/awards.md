@@ -4,6 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Elevated to IEEE Senior Member, IEEE, 2023.
 * AWSAR award 2021, DST, Govt. of India.
 * Selected as top 1% reviewer in Publons, 2019.
 * Selected as IEEE Richard E. Merwin Student Scholar, 2017.
