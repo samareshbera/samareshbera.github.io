@@ -19,7 +19,6 @@ author_profile: true
 
 
 <h2><b>Alumni</b></h2>
-
 <h3>Intern Students</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://samareshbera.github.io/images/Ritvik.jpg"  alt="img_ritvik" width = 100px height = 110px > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://samareshbera.github.io/images/Bhargav.jpg"  alt="img_bhargav" width = 100px height = 110px ><br>
