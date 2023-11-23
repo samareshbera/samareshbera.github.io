@@ -49,7 +49,7 @@ author_profile: true
 
 <h3>Membership</h3>
 
-* Member, IEEE
+* Senior Member, IEEE
 * Member, ACM
 * Member, IEEE Communications Society
 * Member, IEEE Computer Society
