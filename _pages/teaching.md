@@ -6,6 +6,10 @@ author_profile: true
 
 <h3>Courses as Coordinator/Instructor</h3>
 
+* **Fundamentals of SDN and NFV (CSC070P6G)** - Spring 2023 at IIT Jammu
+
+* **Information Security (CSC050P1M)** - Spring 2023 at IIT Jammu
+
 * **Introduction to Computer Systems (CSC005P1M)** - Autumn 2023 at IIT Jammu: [Lab Assignments](https://classroom.google.com/c/NjE3MDIwMTQxMjk0), [Theory](https://classroom.google.com/c/NjE3MDE3MzQyNDIy)
   
 * **Operating Systems (CSC031U3M)** - Autumn 2023 at IIT Jammu (with Prof. Manoj S Gaur): [Lab environment setup](https://github.com/samareshbera/oslab/), [Lab Assignments](https://classroom.google.com/c/NjE3MDE4NTIxMzA1), [Theory](https://classroom.google.com/c/NjMzMzQ2MDQyMTAw)
