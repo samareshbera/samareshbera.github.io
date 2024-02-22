@@ -15,6 +15,8 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
+* **<i>Call for Book Chapter</i>** "Edge-Enabled 6G Networking Foundations, Technologies, and Applications" to be published by **<i>Springer Nature</i>** is out.
+
 * "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks" got accepted for presentation in **<i>IEEE ANTS 2023</i>**.
 
 * I have been elevated to **<i>Senior Member, IEEE</i>**.
