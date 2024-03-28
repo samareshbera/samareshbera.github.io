@@ -52,7 +52,7 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[9.](https://ieeexplore.ieee.org/document/10469344) <b>S. Bera</b>, "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks", <i>in Proc. IEEE ANTS</i>, Dec. 2023.[<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_2023.pdf)
+[9.](https://ieeexplore.ieee.org/document/10469344) <b>S. Bera</b>, "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks", <i>in Proc. IEEE ANTS</i>, Dec. 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_2023.pdf)
 
 [8.](https://ieeexplore.ieee.org/document/9615516/) <b>S. Bera</b> and N. B. Mehta, "Network Slicing in 5G Edge Networks with Controlled Slice Redistributions", <i>in Proc. IEEE/ACM/IFIP CNSM</i>, Oct. 2021. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/RESET.pdf)
 
