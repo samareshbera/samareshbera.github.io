@@ -24,10 +24,6 @@ Recent News
 * I have been elevated to **<i>Senior Member, IEEE</i>**.
 
 * Our proposal to set up a **5G use case lab at IIT Jammu** under the scheme "100 5G Use Case Labs" by the Department of Telecommunications (DoT), Govt. of India has been selected for funding.
-  
-* **Project** 2: "Reliability and Latency-Aware Network Slicing and Resource Allocation for uRLLC in 5G Networks" is **accepted for funding by SERB**, Govt. of India.
-  
-* **Project** 1: "Reliable and Secure Network Slicing in 5G and Beyond Networks" is **accepted for funding by IIT Jammu** under the Seed Grant.
 
 
 Openings
