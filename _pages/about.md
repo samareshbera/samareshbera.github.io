@@ -15,7 +15,7 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
-* Congratulations, Shivank! for the acceptance of your paper in SPCOM 2024 (https://ece.iisc.ac.in/~spcom/2024/).
+* Congratulations, Shivank! for the acceptance of your paper in [SPCOM 2024](https://ece.iisc.ac.in/~spcom/2024/).
 
 * **<i>Call for Book Chapter</i>** "Edge-Enabled 6G Networking Foundations, Technologies, and Applications" to be published by **<i>Springer Nature</i>** is out. See [here](https://samareshbera.github.io/files/CFBC_Springer_Nature.pdf) for details.
 
