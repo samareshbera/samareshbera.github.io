@@ -12,7 +12,10 @@ author_profile: true
 
 <h3>Invited Talks</h3>
 
-* "Network Slicing in 5G and Beyond Networks: Issues, Challenges, and Opportunities" in <i>Research & Industrial Conclave 2023</i>, IIT Guwahati, India.
+* "Next-Generation Networks", SR University, 2024, AP, India.
+* "5G Network in a Box: Fundamentals, Deployment, and Use-Cases", in <i>Faculty Development Program on 5G</i>, 2024, IIT Jammu.
+* "Routing in Software-Defined Networks and Applications to Vehicular Networks", in <i>Faculty Development Program 2024</i>, NIT Calicut.
+* "Network Slicing in 5G and Beyond Networks: Issues, Challenges, and Opportunities", in <i>Research & Industrial Conclave 2023</i>, IIT Guwahati, India.
 * "End-to-end network slicing in 5G" at <i>ICACIE 2022, Odisha</i>.
 * "Network slicing in 5G edge networks" at <i>CNI, IISc Bangalore, India, Nov. 2021</i>.
 * "Adaptive rule placement in software-defined networks" in <i>ICACIE - 2020, Mauritius</i>.
