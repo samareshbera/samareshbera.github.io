@@ -52,7 +52,7 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[10.]() S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>to Appear in SPCOM</i>, Jul. 2024.
+[10.]() S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>to in Proc. of the SPCOM</i>, Jul. 2024.
 
 [9.](https://ieeexplore.ieee.org/document/10469344) <b>S. Bera</b>, "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks", <i>in Proc. IEEE ANTS</i>, Dec. 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_2023.pdf)
 
