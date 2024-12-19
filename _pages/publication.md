@@ -29,7 +29,7 @@ author_profile: true
 
 [11.](https://ieeexplore.ieee.org/document/8207582/) S. Misra, <b>S. Bera</b>, Achuthananda M.P., S. K. Pal, and M. S. Obaidat, "Situation-Aware Protocol Switching in Software-Defined Wireless Sensor Network Systems", <i>IEEE Systems Journal</i>, vol. 12, no. 3, pp. 2353-2360, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SAPS.pdf)
 
-[10.](https://ieeexplore.ieee.org/document/7817887/) <b>S. Bera</b>, S. Misra, and D. Chatterjee, "C2C: Community-Based Cooperative Energy Consumption in Smart Grid", <i>IEEE Transactions on Smart Grid</i>, vol. 9, no. 5, pp. 4262-4269, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/C2C.pdf)
+[10.](https://ieeexplore.ieee.org/document/7817887/) <b>S. Bera</b>, S. Misra, and D. Chatterjee, "C2C: Community-Based Cooperative Energy Consumption in Smart Grid", <i>IEEE Trans. on Smart Grid</i>, vol. 9, no. 5, pp. 4262-4269, Sept. 2018. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/C2C.pdf)
 
 [9.](https://ieeexplore.ieee.org/document/8017556/) <b>S. Bera</b>, S. Misra, and A. V. Vasilakos, "Software-Defined Networking for Internet of Things: A Survey", <i>IEEE Internet of Things Journal</i>, vol. 4, no. 6, pp. 1994-2008, Dec. 2017. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/SDIoT.pdf)
 
@@ -52,7 +52,9 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[10.]() S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>to in Proc. of the SPCOM</i>, Jul. 2024.
+[11.]() W. Dev, <b>S. Bera</b>, and A. Tiwari, "Control-Plane Load Balancing and Auto-Scaling in 5G and Beyond Networks", <i> (to appear) in Proc. of ICOIN</i>, Jan. 2025.
+
+[10.](https://ieeexplore.ieee.org/abstract/document/10631599) S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>in Proc. of SPCOM</i>, Jul. 2024.
 
 [9.](https://ieeexplore.ieee.org/document/10469344) <b>S. Bera</b>, "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks", <i>in Proc. IEEE ANTS</i>, Dec. 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_2023.pdf)
 
