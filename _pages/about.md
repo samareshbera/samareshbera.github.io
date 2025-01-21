@@ -15,6 +15,8 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Recent News
 ----------
+* **Congratulations, Anutosh and Wriddhiraaj!** for the acceptance of your paper in [ICOIN 2025](https://icoin.org/).
+
 * **Congratulations, Shivank!** for the acceptance of your paper in [SPCOM 2024](https://ece.iisc.ac.in/~spcom/2024/).
 
 * **<i>Call for Book Chapter</i>** "Edge-Enabled 6G Networking Foundations, Technologies, and Applications" to be published by **<i>Springer Nature</i>** is out. See [here](https://samareshbera.github.io/files/CFBC_Springer_Nature.pdf) for details.
@@ -28,8 +30,6 @@ Recent News
 
 Openings
 ----------
-I have one project position vacant funded by SERB, Govt. of India. The scholarship will be as per the norms. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for Project position". The candidate has the opportunity to enroll in the PhD degree program as per the rules and regulations at IIT Jammu.
-
 I am looking for candidates interested in pursuing PhD in systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for PhD position".
 
 If you are looking for an internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for Internship position".
