@@ -52,7 +52,7 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[11.](https://ieeexplore.ieee.org/document/10992795) W. Dev, <b>S. Bera</b>, and A. Tiwari, "Control-Plane Load Balancing and Auto-Scaling in 5G and Beyond Networks", <i> (to appear) in Proc. of ICOIN</i>, Jan. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN.pdf)
+[11.](https://ieeexplore.ieee.org/document/10992795) W. Dev, <b>S. Bera</b>, and A. Tiwari, "Control-Plane Load Balancing and Auto-Scaling in 5G and Beyond Networks", <i>in Proc. of ICOIN</i>, Jan. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN.pdf)
 
 [10.](https://ieeexplore.ieee.org/document/10631599) S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>in Proc. of SPCOM</i>, Jul. 2024. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Security_function_5G.pdf)
 
