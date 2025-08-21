@@ -7,6 +7,8 @@ author_profile: true
 
 <h3>Journals</h3>
 
+[23.](https://arxiv.org/abs/2508.14435) A. Sayeed and <b>S. Bera</b>, "Availability-Aware VNF Placement and Request Routing in MEC-Enabled 5G Networks", arXiv:2508.14435, 11 pages.
+
 [22.](https://arxiv.org/abs/2508.13581) S. Malik and <b>S. Bera</b>, "Security-as-a-Function for IDS/IPS in Softwarized Network and Applications to 5G Network Systems", arXiv:2508.13581, 8 pages.
 
 [21.](https://ieeexplore.ieee.org/document/9939088) P. Kamboj, S. Pal, <b>S. Bera</b>, and S. Misra, "QoS-aware Multipath Routing in Software-Defined Networks", <i>IEEE Trans. on Network Science and Engineering</i>, vol. 10, no. 2, pp. 723-732, 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/QoS_multipath.pdf)
