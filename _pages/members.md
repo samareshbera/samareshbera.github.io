@@ -13,15 +13,16 @@ author_profile: false
 
 <h3><b>Current PhD Students</b></h3>
 
-* Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G Networks for uRLLC Applications
-* Shameer Basir (2024 to present) -- 5G Network Automation using Reinforcement Learning
+* Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
+* Shameer Basir (2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
+* Abdul Basit Mir (2024 to present) -- Resource Allocation in MEC-enabled 5G/6G Networks
 * Rabiya Majeed (2024 to present) jointly with Dr. Shaifu Gupta -- Resource Allocation in Software-Defined Elastic Optical Network
 
 
 <h3><b>Current MTech Students</b></h3>
 
 * Yash Deshpande -- Security and Privacy Issues in eBPF-based Containerized Services
-* Neetish Bamotra -- 5G Network Slicing using OSM
+* Neetish Bamotra -- Dynamic Network Slicing in 5G/6G using OSM
 * Aayushman Jadon -- eBPF-based Android Mobile Security
 
 
