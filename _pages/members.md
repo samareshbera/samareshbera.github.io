@@ -15,7 +15,7 @@ author_profile: false
 
 * Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
 * Shameer Basir (2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
-* Abdul Basit Mir (2024 to present) -- Resource Allocation in MEC-enabled 5G/6G Networks
+* Abdul Basit Mir (2024 to present) jointly with Dr. Ankur Bansal -- Resource Allocation in MEC-enabled 5G/6G Networks
 * Rabiya Majeed (2024 to present) jointly with Dr. Shaifu Gupta -- Resource Allocation in Software-Defined Elastic Optical Network
 
 
