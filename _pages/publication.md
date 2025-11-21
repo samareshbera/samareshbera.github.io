@@ -56,11 +56,11 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[13.]() P. Jaiswal, P. Kapisway, and <b>S. Bera</b>, "Age-of-Information and Availability-Aware Service Provisioning in Edge-Enabled Digital Twin Networks", <i>in Proc. of IEEE COMNETSAT</i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/COMNETSAT_2025.pdf)
+[13.]() P. Jaiswal, P. Kapisway, and <b>S. Bera</b>, "Age-of-Information and Availability-Aware Service Provisioning in Edge-Enabled Digital Twin Networks", <i>in Proc. of 14th IEEE International Conference on Communications, Networks, and Satellite (COMNETSAT)</i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/COMNETSAT_2025.pdf)
 
 [12.]() D. Singh, <b>S. Bera</b>, and A. Bansal, "MEC-based Smart Surveillance in 5G/6G Networks: Intrusion Detection and Loitering Monitoring", <i>in Proc. of IEEE ANTS Workshop </i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_5G_2025.pdf)
 
-[11.](https://ieeexplore.ieee.org/document/10992795) W. Dev, <b>S. Bera</b>, and A. Tiwari, "Control-Plane Load Balancing and Auto-Scaling in 5G and Beyond Networks", <i>in Proc. of ICOIN</i>, Jan. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN.pdf)
+[11.](https://ieeexplore.ieee.org/document/10992795) W. Dev, <b>S. Bera</b>, and A. Tiwari, "Control-Plane Load Balancing and Auto-Scaling in 5G and Beyond Networks", <i>in Proc. of the 39th International Conference on Information Networking (ICOIN)</i>, Jan. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN.pdf)
 
 [10.](https://ieeexplore.ieee.org/document/10631599) S. Malik and <b>S. Bera</b>, "Security-as-a-Function in 5G Network: Implementation and Performance Evaluation", <i>in Proc. of SPCOM</i>, Jul. 2024. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Security_function_5G.pdf)
 
