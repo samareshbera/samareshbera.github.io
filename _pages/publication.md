@@ -56,6 +56,10 @@ author_profile: true
 
 <h3>Conferences</h3>
 
+[15.]() S. Bashir and <b>S. Bera</b>, "Reliability-Aware Adaptive Power Allocation in 5G RAN for uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026.
+
+[14.]() A. Sayeed and <b>S. Bera</b>, "Optimal Resource Allocation in 5G RAN with Co-Existing eMBB and uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026.
+
 [13.]() P. Jaiswal, P. Kapisway, and <b>S. Bera</b>, "Age-of-Information and Availability-Aware Service Provisioning in Edge-Enabled Digital Twin Networks", <i>in Proc. of 14th IEEE International Conference on Communications, Networks, and Satellite (COMNETSAT)</i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/COMNETSAT_2025.pdf)
 
 [12.]() D. Singh, <b>S. Bera</b>, and A. Bansal, "MEC-based Smart Surveillance in 5G/6G Networks: Intrusion Detection and Loitering Monitoring", <i>in Proc. of IEEE ANTS Workshop </i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ANTS_5G_2025.pdf)
