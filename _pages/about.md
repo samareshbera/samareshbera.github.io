@@ -12,22 +12,6 @@ I am an Assistant Professor in the [Department of Computer Science and Engineeri
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
-
-Recent News
-----------
-* **Congratulations, Anutosh and Wriddhiraaj!** for the acceptance of your paper in [ICOIN 2025](https://icoin.org/).
-
-* **Congratulations, Shivank!** for the acceptance of your paper in [SPCOM 2024](https://ece.iisc.ac.in/~spcom/2024/).
-
-* **<i>Call for Book Chapter</i>** "Edge-Enabled 6G Networking Foundations, Technologies, and Applications" to be published by **<i>Springer Nature</i>** is out. See [here](https://samareshbera.github.io/files/CFBC_Springer_Nature.pdf) for details.
-
-* "Availability-Aware VNF Placement for uRLLC Applications in MEC-Enabled 5G Networks" got accepted for presentation in **<i>IEEE ANTS 2023</i>**.
-
-* I have been elevated to **<i>Senior Member, IEEE</i>**.
-
-* Our proposal to set up a **5G use case lab at IIT Jammu** under the scheme "100 5G Use Case Labs" by the Department of Telecommunications (DoT), Govt. of India has been selected for funding.
-
-
 Openings
 ----------
 I am looking for candidates interested in pursuing PhD in systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for PhD position".
