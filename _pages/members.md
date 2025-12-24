@@ -16,21 +16,20 @@ author_profile: false
 * Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
 * Shameer Basir (2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
 * Abdul Basit Mir (2024 to present) jointly with Dr. Ankur Bansal -- Resource Allocation in MEC-enabled 5G/6G Networks
-* Rabiya Majeed (2024 to present) jointly with Dr. Shaifu Gupta -- Resource Allocation in Software-Defined Elastic Optical Network
 
 
 <h3><b>Current MTech Students</b></h3>
 
 * Yash Deshpande -- Security and Privacy Issues in eBPF-based Containerized Services
 * Neetish Bamotra -- Dynamic Network Slicing in 5G/6G using OSM
-* Aayushman Jadon -- eBPF-based Android Mobile Security
+* Aayushman Jadon (jointly supervised with Dr. Shaifu Gupta) -- eBPF-based Android Mobile Security
 
 
 <h3><b>Current BTech Students</b></h3>
 
-* Patel Vraj, Harsh Neema, and Rishabh Jain -- Secure Load Balancing in 5G Core Network using LoxiLB
-* Ayman Singh and Arav Sawant -- eBPF-based Packet Processing in 5G Core with Machine Learning
-* Aman Kumar and Kritika Patidar -- Performance Analysis of Application Layer Protocols in IoT
+* Patel Vraj, Harsh Neema, and Rishabh Jain -- Secure Load Balancing and Auto-Scaling of Network Functions in 5G Core Network
+* Ayman Singh and Arav Sawant -- eBPF-based Fast and Secure Packet Processing in 5G Core with Machine Learning
+* Aman Kumar and Kritika Patidar -- Performance Analysis of MQTT and CoAP with QUIC for IoT Applications in 5G Network
   
 
 <h3><b>Past Students</b></h3>
