@@ -7,6 +7,8 @@ author_profile: true
 
 <h3>arXiv/In-Preparation</h3>
 
+[3.](https://arxiv.org/abs/2603.19867) Y. Deshpande and <b>S. Bera</b>, "Vulnerability Analysis of eBPF-enabled Containerized Deployments of 5G Core Networks", arXiv:2603.19867, 6 pages.
+
 [2.](https://arxiv.org/abs/2508.14435) A. Sayeed and <b>S. Bera</b>, "Availability-Aware VNF Placement and Request Routing in MEC-Enabled 5G Networks", arXiv:2508.14435, 11 pages.
 
 [1.](https://arxiv.org/abs/2508.13581) S. Malik and <b>S. Bera</b>, "Security-as-a-Function for IDS/IPS in Softwarized Network and Applications to 5G Network Systems", arXiv:2508.13581, 8 pages.
