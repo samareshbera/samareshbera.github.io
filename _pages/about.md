@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computer Science and Engineering](https://www.iitjammu.ac.in/computer_science_engineering), [IIT Jammu](https://www.iitjammu.ac.in/). Before that, I was a C.V. Raman Post-Doctoral Fellow in the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/), IISc Bangalore, India. I obtained my PhD and MS degrees from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India. My research interests include software-defined networks, network function virtualization, network security, and 5G network slicing.
+I am an Assistant Professor in the [Department of Computer Science and Engineering](https://www.iitjammu.ac.in/computer_science_engineering), [IIT Jammu](https://www.iitjammu.ac.in/). Before that, I was a C.V. Raman Post-Doctoral Fellow in the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/), IISc Bangalore, India. I obtained my PhD and MS degrees from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/), India. My research interests include software-defined networks, network function virtualization, network security, and 5G network slicing. I am a Senior Member of the IEEE and a member of the ACM.
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
