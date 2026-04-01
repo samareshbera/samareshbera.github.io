@@ -14,9 +14,9 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Openings
 ----------
-I am looking for candidates interested in pursuing PhD in systems and networking. [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for PhD position".
+* We have an opening for a Project Assistant in our 5G Use-Case Lab at IIT Jammu. The official advertisement will be out soon! Stay tuned.
 
-If you are looking for an internship in the area of next-generation networking (5G and beyond), [Email me](samaresh.bera@iitjammu.ac.in) your CV with the subject "CV for Internship position".
+* I am looking for candidates interested in pursuing a PhD in Systems and Networking in the upcoming semester. Apply [here](https://www.iitjammu.ac.in/phd) if interested. You need to select the research area as "Resource Allocation in 5G/6G, Systems and Network Security".
 
 Work Experience
 ----------
