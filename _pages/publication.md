@@ -15,6 +15,8 @@ author_profile: true
 
 <h3>Journals</h3>
 
+[22.]() B. Bera, <b>S. Bera</b>, M. Liyanage, and B. Sikdar, "Adversarial Attack Detection and Mitigation in Next-Generation Intelligent Consumer Electronics", <i>IEEE Trans. on Consumer Electronics</i> (Accepted), Apr. 2026.
+
 [21.](https://ieeexplore.ieee.org/document/9939088) P. Kamboj, S. Pal, <b>S. Bera</b>, and S. Misra, "QoS-aware Multipath Routing in Software-Defined Networks", <i>IEEE Trans. on Network Science and Engineering</i>, vol. 10, no. 2, pp. 723-732, 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/QoS_multipath.pdf)
 
 [20.](https://ieeexplore.ieee.org/document/9909999) C. R. Chowdhury, S. Misra, C. R. Mandal, and <b>S. Bera</b>, "SeamFlow: Seamless Flow Forwarding in Energy Harvesting-Enabled Access Points of SDWLAN", <i>IEEE Trans. on Sustainable Computing</i>, vol. 8, no. 1, pp. 94-108, 2023.
