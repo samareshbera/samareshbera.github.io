@@ -7,13 +7,14 @@ author_profile: true
 <h3>Courses as Coordinator/Instructor</h3>
 
 **Current Semester:**
-  * Computer Networks (CS-3-10(MO)) - *Spring 2024* at IIT Jammu
-  * Fundamentals of SDN and NFV (CS-6-38(MO)) - *Spring 2024* at IIT Jammu
+  * Computer Networks (CS-3-10(MO)) - *Spring 2025* at IIT Jammu
+  * Fundamentals of SDN and NFV (CS-6-38(MO)) - *Spring 2025* at IIT Jammu
 
 
 **Previous Semesters:**
+* Computer Networks (CS-3-10(MO)) - *Spring 2024* at IIT Jammu
 * Operating Systems (CS-3-08(MO)) - *Autumn 2024*, *Autumn 2023* at IIT Jammu
-* Fundamentals of SDN and NFV (CSC070P6G) - *Spring 2023* at IIT Jammu
+* Fundamentals of SDN and NFV (CSC070P6G) - *Spring 2024, 2023* at IIT Jammu
 * Information Security (CSC050P1M) - *Spring 2023*, *Spring 2022* at IIT Jammu
 * Introduction to Computer Systems (CSC005P1M) - *Autumn 2023* at IIT Jammu
 
