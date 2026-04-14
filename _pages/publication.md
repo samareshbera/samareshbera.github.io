@@ -66,9 +66,9 @@ author_profile: true
 
 [16.]() A. Tiwari, <b>S. Bera</b>, and Z. Akhtar, "DDoS Attack Detection in 5G Control Plane Using Machine Learning", <i>Accepted in IEEE BlackSeaCom</i>, 2026.
 
-[15.]() S. Bashir and <b>S. Bera</b>, "Reliability-Aware Adaptive Power Allocation in 5G RAN for uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026.
+[15.]() S. Bashir and <b>S. Bera</b>, "Reliability-Aware Adaptive Power Allocation in 5G RAN for uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN_Shameer_2026.pdf)
 
-[14.]() A. Sayeed and <b>S. Bera</b>, "Optimal Resource Allocation in 5G RAN with Co-Existing eMBB and uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026.
+[14.]() A. Sayeed and <b>S. Bera</b>, "Optimal Resource Allocation in 5G RAN with Co-Existing eMBB and uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN_Aqsa_2026.pdf)
 
 [13.](https://ieeexplore.ieee.org/document/11324494/) P. Jaiswal, P. Kapisway, and <b>S. Bera</b>, "Age-of-Information and Availability-Aware Service Provisioning in Edge-Enabled Digital Twin Networks", <i>in Proc. of 14th IEEE International Conference on Communications, Networks, and Satellite (COMNETSAT)</i> (to appear), Dec. 2025. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/COMNETSAT_2025.pdf)
 
