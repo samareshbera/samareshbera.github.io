@@ -6,6 +6,7 @@ author_profile: true
 --- 
 
 <h3>Books</h3>
+
 [1.]() Edge-Enabled 6G Networking, Edited by T. Ojha, M. Hussain, <b>S. Bera</b>, N. Ahmed, and S. Misra, in Press: Springer Nature, 2026.
 
 <h3>arXiv/In-Preparation</h3>
