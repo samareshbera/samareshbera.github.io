@@ -62,9 +62,9 @@ author_profile: true
 
 <h3>Conferences</h3>
 
-[17.]() A. B. Mir, <b>S. Bera</b>, and A. Bansal, "Dynamic Placement and Service Provisioning of AI/ML Inference Models in O-RAN Infrastructure", <i>Accepted in IEEE BlackSeaCom</i>, 2026.
+[17.]() A. B. Mir, <b>S. Bera</b>, and A. Bansal, "Dynamic Placement and Service Provisioning of AI/ML Inference Models in O-RAN Infrastructure", <i>Accepted in IEEE BlackSeaCom</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/BlackSeaCom_Abdul_2026.pdf)
 
-[16.]() A. Tiwari, <b>S. Bera</b>, and Z. Akhtar, "DDoS Attack Detection in 5G Control Plane Using Machine Learning", <i>Accepted in IEEE BlackSeaCom</i>, 2026.
+[16.]() A. Tiwari, <b>S. Bera</b>, and Z. Akhtar, "DDoS Attack Detection in 5G Control Plane Using Machine Learning", <i>Accepted in IEEE BlackSeaCom</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/BlackSeaCom_Anutosh_2026.pdf)
 
 [15.]() S. Bashir and <b>S. Bera</b>, "Reliability-Aware Adaptive Power Allocation in 5G RAN for uRLLC Applications", <i>in Proc. of the 40th International Conference on Information Networking (ICOIN)</i> (to appear), Jan. 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/ICOIN_Shameer_2026.pdf)
 
