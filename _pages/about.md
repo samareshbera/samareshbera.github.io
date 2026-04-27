@@ -14,7 +14,7 @@ My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Ber
 
 Openings
 ----------
-* We have an opening for a Project Assistant in our 5G Use-Case Lab at IIT Jammu. The official advertisement will be out soon! Stay tuned.
+* We have an opening for a Project Assistant in our 5G Use-Case Lab at IIT Jammu. The official advertisement is available [here](https://iitjammu.ac.in/post/advt-IITJRCRP002632026A-04-project-assistant)! Apply if interested. The selected candidate may have the opportunity to enrol into the PhD program in the CSE/allied department.
 
 * I am looking for candidates interested in pursuing a PhD in Systems and Networking in the upcoming semester. Apply [here](https://www.iitjammu.ac.in/phd) if interested. You need to select the research area as "Resource Allocation in 5G/6G, Systems and Network Security".
 
