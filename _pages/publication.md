@@ -7,7 +7,9 @@ author_profile: true
 
 <h3>Books</h3>
 
-[1.]() Edge-Enabled 6G Networking, Edited by T. Ojha, M. Hussain, <b>S. Bera</b>, N. Ahmed, and S. Misra, in Press: Springer Nature, 2026.
+[2.](https://link.springer.com/book/9783032190413) Edge-Enabled 6G Networking, Edited by T. Ojha, M. Hussain, <b>S. Bera</b>, N. Ahmed, and S. Misra, Published by Springer Nature, ISBN: 9783032190413, 2026.
+
+[1.](https://www.cambridge.org/core/books/smart-grid-technology/8F46D3D877A0A5F2FBCF0E8EDCD8E6B6) Smart Grid Technology: A Cloud Computing and Data Management Approach, Authors: S. Misra and <b>S. Bera</b>, Published by Cambridge University Press (UK), ISBN: 9781108566506, 2018.
 
 <h3>arXiv/In-Preparation</h3>
 
@@ -19,7 +21,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-[22.]() B. Bera, <b>S. Bera</b>, M. Liyanage, and B. Sikdar, "Adversarial Attack Detection and Mitigation in Next-Generation Intelligent Consumer Electronics", <i>IEEE Trans. on Consumer Electronics</i> (Accepted), Apr. 2026.
+[22.](https://ieeexplore.ieee.org/document/11482209) B. Bera, <b>S. Bera</b>, M. Liyanage, and B. Sikdar, "Adversarial Attack Detection and Mitigation in Next-Generation Intelligent Consumer Electronics", <i>IEEE Trans. on Consumer Electronics</i>, Vol. 72, no. 2, pp. 4671-4682, May 2026.
 
 [21.](https://ieeexplore.ieee.org/document/9939088) P. Kamboj, S. Pal, <b>S. Bera</b>, and S. Misra, "QoS-aware Multipath Routing in Software-Defined Networks", <i>IEEE Trans. on Network Science and Engineering</i>, vol. 10, no. 2, pp. 723-732, 2023. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/QoS_multipath.pdf)
 
