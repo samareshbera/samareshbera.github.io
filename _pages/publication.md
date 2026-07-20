@@ -5,13 +5,15 @@ permalink: /publication/
 author_profile: true
 --- 
 
-<h3>Books</h3>
+Books
+----------
 
 [2.](https://link.springer.com/book/9783032190413) Edge-Enabled 6G Networking, Edited by T. Ojha, M. Hussain, <b>S. Bera</b>, N. Ahmed, and S. Misra, Published by Springer Nature, ISBN: 9783032190413, 2026.
 
 [1.](https://www.cambridge.org/core/books/smart-grid-technology/8F46D3D877A0A5F2FBCF0E8EDCD8E6B6) Smart Grid Technology: A Cloud Computing and Data Management Approach, Authors: S. Misra and <b>S. Bera</b>, Published by Cambridge University Press (UK), ISBN: 9781108566506, 2018.
 
-<h3>arXiv/In-Preparation</h3>
+arXived/In-Preparation
+----------
 
 [3.](https://arxiv.org/abs/2603.19867) Y. Deshpande and <b>S. Bera</b>, "Vulnerability Analysis of eBPF-enabled Containerized Deployments of 5G Core Networks", arXiv:2603.19867, 6 pages.
 
@@ -19,7 +21,8 @@ author_profile: true
 
 [1.](https://arxiv.org/abs/2508.13581) S. Malik and <b>S. Bera</b>, "Security-as-a-Function for IDS/IPS in Softwarized Network and Applications to 5G Network Systems", arXiv:2508.13581, 8 pages.
 
-<h3>Journals</h3>
+Journals
+----------
 
 [22.](https://ieeexplore.ieee.org/document/11482209) B. Bera, <b>S. Bera</b>, M. Liyanage, and B. Sikdar, "Adversarial Attack Detection and Mitigation in Next-Generation Intelligent Consumer Electronics", <i>IEEE Trans. on Consumer Electronics</i>, Vol. 72, no. 2, pp. 4671-4682, May 2026.
 
@@ -66,7 +69,8 @@ author_profile: true
 [1.](https://ieeexplore.ieee.org/document/6828878/) S. Misra, <b>S. Bera</b>, A. Mondal, R. Tirkey, H. C. Chao, and S. Chattopadhyay, "Optimal Gateway Selection in Sensor-Cloud Framework for Health Monitoring", <i>IET Wireless Sensor Systems</i>, vol. 3, no. 4, pp. 61-68, Dec. 2014.
 
 
-<h3>Conferences</h3>
+Conferences
+----------
 
 [17.](https://ieeexplore.ieee.org/document/11598094) A. B. Mir, <b>S. Bera</b>, and A. Bansal, "Dynamic Placement and Service Provisioning of AI/ML Inference Models in O-RAN Infrastructure", <i>in Proc. of the IEEE BlackSeaCom</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/BlackSeaCom_Abdul_2026.pdf)
 
@@ -103,7 +107,8 @@ author_profile: true
 [1.](https://ieeexplore.ieee.org/document/6682213/) S. Misra, A. Mondal, S. Banik, M. Khatua, <b>S. Bera</b>, and M. S. Obaidat, "Residential Energy Management in Smart Grid: A Markov Decision Process Based Approach", <i>in Proc. IEEE iThings/CPSCom</i>, 2013.
 
 
-<h3>Book Chapter</h3>
+Book Chapters
+----------
 
 [1.](https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758) S. N. Das, <b>S. Bera</b>, S. Misra, S. K. Pal, "Introduction to Wireless Sensor Networks", <i>in Book Soft Computing Applications in Sensor Networks</i> edited by S. Misra and S. K. Pal, CRC Press, 2016.
 
