@@ -13,7 +13,7 @@ author_profile: true
 <!--* [Samaresh Bera](https://samareshbera.github.io/)-->
 
 Current PhD Students
-----------
+----------------------------
 
 * Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
 * Shameer Basir (2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
@@ -21,7 +21,7 @@ Current PhD Students
 
 
 Current MTech Students
-----------
+------------------------------
 
 * Kushagra Acharya -- xAPP for Traffic Steering in 5G ORAN
 * Mohit Panwar -- xAPP for Security in 5G ORAN
@@ -29,14 +29,14 @@ Current MTech Students
 
 
 Current BTech Students
-----------
+---------------------------
 
 * Gajula Omkar and Kethavath Kishore -- QoS-Aware Routing in Quantum Communications
 * Sangam Akash
   
 
 Past PhD/MTech/BTech Students
-----------
+-----------------------------------
 
 * Yash Deshpande (MTech, 2026) -- Security and Privacy Issues in eBPF-based Containerized Services
 * Neetish Bamotra (MTech, 2026) -- Dynamic Network Slicing in 5G/6G using OSM
