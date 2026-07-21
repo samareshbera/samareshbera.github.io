@@ -12,10 +12,10 @@ I am an Assistant Professor in the [Department of Computer Science and Engineeri
 
 My full CV is available [here](https://samareshbera.github.io/files/Samaresh_Bera_CV.pdf).
 
-Openings
-----------
+<!--Openings
+---------- -->
 
-* I am looking for candidates interested in pursuing a PhD in Systems and Networking in the upcoming semester. Apply [here](https://www.iitjammu.ac.in/phd) if interested. You need to select the research area as "Resource Allocation in 5G/6G, Systems and Network Security".
+<!--* I am looking for candidates interested in pursuing a PhD in Systems and Networking in the upcoming semester. Apply [here](https://www.iitjammu.ac.in/phd) if interested. You need to select the research area as "Resource Allocation in 5G/6G, Systems and Network Security".-->
 
 Work Experience
 ----------
