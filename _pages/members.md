@@ -15,9 +15,10 @@ author_profile: true
 Current PhD Students
 ----------------------------
 
-* Aqsa Sayeed (2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
-* Shameer Basir (2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
-* Abdul Basit Mir (2024 to present) jointly with Dr. Ankur Bansal -- Resource Allocation in MEC-enabled 5G/6G Networks
+* Aqsa Sayeed (Aug. 2023 to present) -- Resource Allocation in 5G/6G Networks for uRLLC Applications
+* Shameer Basir (Aug. 2024 to present) -- 5G/6G Network Automation using Reinforcement Learning
+* Abdul Basit Mir (Aug. 2024 to present) jointly with Dr. Ankur Bansal -- Resource Allocation in MEC-enabled 5G/6G Networks
+* Utkarsh Kumar (Aug. 2026 to Present)
 
 
 Current MTech Students
