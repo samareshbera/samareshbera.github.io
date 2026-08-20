@@ -71,6 +71,7 @@ Journals
 
 Conferences
 ----------
+[18.]() Y. Deshpande, <b>S. Bera</b>, and L. Foschini, "Vulnerability Analysis and Mitigation of eBPF-based Attacks in Containerized 5G Networks", <i>accepted in IEEE GLOBECOM</i>, 2026.
 
 [17.](https://ieeexplore.ieee.org/document/11598094) A. B. Mir, <b>S. Bera</b>, and A. Bansal, "Dynamic Placement and Service Provisioning of AI/ML Inference Models in O-RAN Infrastructure", <i>in Proc. of the IEEE BlackSeaCom</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/BlackSeaCom_Abdul_2026.pdf)
 
