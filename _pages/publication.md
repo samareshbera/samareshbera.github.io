@@ -70,13 +70,13 @@ Journals
 Conferences
 ----------
 
-[21.]() V. Patel, H. Nema, R. Jain, and <b>S. Bera</b>, "ElasticLB: Seamless Auto-Scaling and Load Balancing for Cloud-Native 5G Core Networks", <i>accepted in IEEE INDISCON</i>, 2026.
+[21.]() V. Patel, H. Nema, R. Jain, and <b>S. Bera</b>, "ElasticLB: Seamless Auto-Scaling and Load Balancing for Cloud-Native 5G Core Networks", <i>accepted in IEEE INDISCON</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Vraj_INDISCON_2026.pdf)
 
-[20.]() A. Kumar, K. Patidar, A. V. Singh, <b>S. Bera</b>, and Z. Akhtar, "On the Performance of MQTT over QUIC vs. TCP-TLS in 5G Smart Grid Networks", <i>accepted in IEEE INDISCON</i>, 2026.
+[20.]() A. Kumar, K. Patidar, A. V. Singh, <b>S. Bera</b>, and Z. Akhtar, "On the Performance of MQTT over QUIC vs. TCP-TLS in 5G Smart Grid Networks", <i>accepted in IEEE INDISCON</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Aman_INDISCON_2026.pdf)
 
-[19.]() G. Bhakta and <b>S. Bera</b>, "Dynamic Rule Generation and Intrusion Detection for 5G UPF Security using Machine Learning", <i>accepted in IEEE INDISCON</i>, 2026.
+[19.]() G. Bhakta and <b>S. Bera</b>, "Dynamic Rule Generation and Intrusion Detection for 5G UPF Security using Machine Learning", <i>accepted in IEEE INDISCON</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/George_INDISCON_2026.pdf)
 
-[18.]() Y. Deshpande, <b>S. Bera</b>, and L. Foschini, "Vulnerability Analysis and Mitigation of eBPF-based Attacks in Containerized 5G Networks", <i>accepted in IEEE GLOBECOM</i>, 2026.
+[18.]() Y. Deshpande, <b>S. Bera</b>, and L. Foschini, "Vulnerability Analysis and Mitigation of eBPF-based Attacks in Containerized 5G Networks", <i>accepted in IEEE GLOBECOM</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/Yash_Globecom_2026.pdf)
 
 [17.](https://ieeexplore.ieee.org/document/11598094) A. B. Mir, <b>S. Bera</b>, and A. Bansal, "Dynamic Placement and Service Provisioning of AI/ML Inference Models in O-RAN Infrastructure", <i>in Proc. of the IEEE BlackSeaCom</i>, 2026. [<img src="https://samareshbera.github.io/images/pdf.png" width="15" height="15"/>](https://samareshbera.github.io/files/BlackSeaCom_Abdul_2026.pdf)
 
